@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Persona()
+comment0.text=\r\n\ Constructor\ por\ defecto\ de\ la\ clase\ persona,sin\ parametros.\r\n
+comment1.params=nombres
+comment1.target=void\ setNombres(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNombres()
+comment3.params=apellidos
+comment3.target=void\ setApellidos(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getApellidos()
+comment5.params=
+comment5.target=void\ imprimirInformacion()
+numComments=6

@@ -1,0 +1,20 @@
+package a;
+
+/**
+ * En esta clase se hace uan demostracion delproyecto, creando las instancias necesarias.
+ * @author Franklin Rony Cortez
+ * @version 1.0
+ */
+public class Demo {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        //objeto persona,sin parametros
+        Persona persona1=new Persona();
+        //objeto persona, con parametros.
+        Persona persona2=new Persona("Franklin", "Cortez", 29);
+    }
+    
+}

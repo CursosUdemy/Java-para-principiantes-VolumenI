@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Estudiante()
+comment0.text=\r\n\ Constructor\ por\ defecto\ clase\ Estudiante.\r\n
+comment1.params=carnet
+comment1.target=void\ setCarnet(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getCarnet()
+comment3.params=carrera
+comment3.target=void\ setCarrera(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getCarrera()
+comment5.params=
+comment5.target=void\ imprimirInformacion()
+numComments=6
