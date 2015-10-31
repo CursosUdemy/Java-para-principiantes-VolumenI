@@ -1,7 +1,7 @@
 package a;
 
 /**
- * En esta clase se hace uan demostracion delproyecto, creando las instancias necesarias.
+ * En esta clase se hace una demostracion del proyecto, creando las instancias necesarias.
  * @author Franklin Rony Cortez
  * @version 1.0
  */
