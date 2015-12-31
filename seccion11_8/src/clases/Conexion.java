@@ -11,7 +11,7 @@ public class Conexion {
     private Connection con;
     private final  String usuario="root";
     private final String password="CXT982mw";
-    private final String url="jdbc:mysql://localhost/estudiantes";
+    private final String url="jdbc:mysql://localhost/libros";
     //Intentar la conexion a la bd
     public Conexion(){
         try {
