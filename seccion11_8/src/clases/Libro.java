@@ -7,14 +7,14 @@ package clases;
 
 /**
  *
- * @author ASUS
+ * @author udemy
  */
 public class Libro {
-    String ISBN;
-    String nombre;
-    String autor;
-    int edicion;
-    int anio;
+    private String ISBN;
+    private String nombre;
+    private String autor;
+    private int edicion;
+    private int anio;
 
     public Libro() {
     }
@@ -58,6 +58,5 @@ public class Libro {
     public void setAnio(int anio) {
         this.anio = anio;
     }
-    
-    
+            
 }

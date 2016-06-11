@@ -1,28 +1,19 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
 package clases;
 
-import java.util.ArrayList;
-
 /**
- * Clase que contiene los atributos de los estudiantes.
- * @author Franklin Rony Cortez Barrera
- * @see <a href="https://docs.oracle.com/javase/tutorial/jdbc/basics/retrieving.html">Resultset</a>
+ *
+ * @author udemy
  */
-public class Estudiante{
+public class Estudiante {
     private String nombres;
     private String apellidos;
     private String carnet;
     private int edad;
-
-    public int getEdad() {
-        return edad;
-    }
-
-    public void setEdad(int edad) {
-        this.edad = edad;
-    }
-    
-    public Estudiante() {
-    }
 
     public String getNombres() {
         return nombres;
@@ -47,4 +38,14 @@ public class Estudiante{
     public void setCarnet(String carnet) {
         this.carnet = carnet;
     }
+
+    public int getEdad() {
+        return edad;
+    }
+
+    public void setEdad(int edad) {
+        this.edad = edad;
+    }
+    
+    
 }
