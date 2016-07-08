@@ -7,7 +7,7 @@ package a;
 
 /**
  *
- * @author ASUS
+ * @author udemy
  */
 public class Demo {
 
@@ -15,9 +15,8 @@ public class Demo {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // crear la ventana
-        MiprimerVentana ventana=new MiprimerVentana();
-        
+        // TODO code application logic here
+        MiVenta ventana=new MiVenta();
     }
     
 }
